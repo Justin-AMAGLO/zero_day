@@ -1,1 +1,1 @@
-My vagrant proect
+**This file is mandatory in projets**
